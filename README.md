@@ -2,14 +2,17 @@
 
 A curate list of an awesome tools might be useful!
 
-## As Dev
+## As Developer
 
-- [For DevOps](dev/devops.md)
-- [For Docker](dev/docker.md)
-- [For Laravel](dev/laravel.md)
-- [For Analytic](dev/analytic.md)
-- [For Database](dev/database.md)
+- [Laravel](developer/laravel.md)
+- [Analytic](developer/analytic.md)
+- [Database](developer/database.md)
+
+## As DevOps
+
+- [Docker](devops/docker.md)
+- [Server](devops/server.md)
 
 ## Personal Usage
 
-- [For Kira kira](personal/kirakira.md)
+- [Kira kira](personal/kirakira.md)
